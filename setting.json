@@ -2,7 +2,7 @@
   "name-web":"INFORMASI BERITA TERKINI DAN TERUPDATE",
   "author":"AGK-KU",
   "remove-comment-html":true,
-  "target":"https://www.pikiran-rakyat.com/",
+  "target":"https://m.tribunnews.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
