@@ -77,7 +77,8 @@ let dbAds=[
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
-    <!-- Iklan Header -->
+    <script async="async" data-cfasync="false" src="//pl16636475.effectivecpmgate.com/1b884ccfce48ea503c2f59bccb5293f5/invoke.js"></script>
+<div id="container-1b884ccfce48ea503c2f59bccb5293f5"></div>
     `,
     "style":`
       width: 90%;
