@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"INFORMASI BERITA TERKINI DAN TERUPDATE",
+  "author":"AGK-KU",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://www.pikiran-rakyat.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
